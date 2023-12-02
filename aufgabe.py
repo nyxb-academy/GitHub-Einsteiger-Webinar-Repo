@@ -14,4 +14,3 @@ print("Lieblingstier:", Lieblingstier)
 
 # Ergänze dein Lieblingstier und entferne das Kommentarzeichen der nächsten Zeile, um es auszugeben
 
-#sas

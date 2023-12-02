@@ -1,5 +1,3 @@
-# GitHub-Einsteiger-Webinar-Repo
-
 Willkommen zum GitHub-Einsteiger-Webinar! Dieses Repository dient als praktische Übung, um die Grundlagen von Git und GitHub zu lernen.
 
 ## Aufgaben
