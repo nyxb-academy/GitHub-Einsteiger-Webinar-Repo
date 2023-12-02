@@ -3,11 +3,11 @@
 # Einige Daten über dich - korrigiere die Fehler und ergänze die fehlenden Informationen
 
 name = "Dein Name"
-alter = "20"  # Ist das korrekt formatiert?
+alter = 20  # Ist das korrekt formatiert?
 
 # Ergänze eine Zeile Code, um dein Lieblingstier auszugeben
-# Beispiel: lieblingstier = "Hund"
-
+lieblingstier = "Hund"
+print(lieblingstier)
 print("Name:", name)
 print("Alter:", alter)
 
