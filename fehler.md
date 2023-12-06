@@ -2,6 +2,6 @@
 
 In diesem Dokument ist ein Tippfehler versteckt. Deine Aufgabe ist es, diesen zu finden und zu korrigieren.
 
-Tipp: Achte auf Rechtschreibfehler!
+Tipp: achte auf Rechtschreibfehler!
 
 Viel Erfolg!
